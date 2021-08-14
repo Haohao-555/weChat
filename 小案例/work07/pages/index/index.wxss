@@ -1,0 +1,22 @@
+/**index.wxss**/
+.navigator{
+  margin: 5px;
+  font: 20px;
+}
+.waikuang{
+  display: flex;
+  flex-direction: row;
+  margin: 5px 0px;
+  padding: 5px 0px;
+}
+.myleft{
+  margin-left: 10px;
+}
+.myright{
+  width: 40rpx;
+  height: 40rpx;
+  margin-top: 5px;
+}
+.center{
+  flex: 1;
+}

@@ -1,0 +1,15 @@
+/* pages/guanyu/guanyu.wxss */
+.lineLayout{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+input{
+  margin: 10rpx 0;
+  border-bottom: 2px solid silver;
+  height: 30px;
+}
+picker,button{
+  margin: 15px 0;
+}

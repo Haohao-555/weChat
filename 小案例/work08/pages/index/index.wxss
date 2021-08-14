@@ -1,0 +1,63 @@
+/**index.wxss**/
+.bg1{
+  height: 240px;
+  margin: 10px auto;
+  width: 200px;
+}
+.box1{
+  height: 80px;
+  width: 100px;
+  background-color: red;
+  margin: 0 auto;
+}
+.box2{
+   height: 80px;
+   width: 100px;
+   background-color: yellow;
+   float: left;/*左浮动,bg1为参照物*/
+}
+.box3{
+   height: 80px;
+   width: 100px;
+   background-color: gold;
+   float: right;
+}
+.box4{
+    height: 80px;
+    width: 100px;
+    background-color: greenyellow;
+    clear: both;/*清除浮动*/
+    margin: 0 auto;/*右浮动,bg1为参照物*/
+}
+
+.bg2{
+   height: 400rpx;
+   text-align: center;
+   margin: 10px auto;
+}
+.header{
+   background-color: red;
+   line-height: 100rpx;
+}
+.leftBar{
+   background-color: yellow;
+   line-height: 200rpx;
+   width: 20%;
+   float: left;
+}
+.main{
+  background-color: greenyellow;
+  width: 60%;
+  line-height: 200rpx;
+  float: left;
+}
+.rightBar{
+   background-color: yellow;
+   width: 20%;
+   line-height: 200rpx;
+   float: right;
+}
+.footer{
+   line-height: 100rpx;
+   background-color: red;
+}

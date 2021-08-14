@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="box">
+ <view class="title">摄氏度转华氏温度</view>
+ <view>
+ <!-- digit数字键盘 -->
+  <input placeholder="请输入摄氏温度" type="digit" bindblur='calc'></input>
+  <!-- bindinput键盘输入时触发 bindfocus 输入框聚焦时触发 bindblur输入框失去焦点时触发 -->
+  <!-- type属性 text 文本输入键盘 number数字输入键盘 digit带小数点的数字键盘 idcard身份证输入键盘 -->
+ </view>
+ <view>华氏温度为:{{F}}</view>
+</view>

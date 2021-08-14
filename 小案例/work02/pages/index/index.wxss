@@ -1,0 +1,22 @@
+/**index.wxss**/
+.textSysle01{
+ color: red;
+ /* 中文字符间距 */
+ letter-spacing: 10px;
+ text-align: center;
+ /* 缩进 */
+ text-indent: 50px;
+ /* 下画线 */
+ text-decoration: underline;
+ text-decoration-color: blue;
+ /* 行高 */
+ line-height: 30px;
+ /* 空白符 */
+ white-space: normal;
+}
+.textSysle02{
+   text-align: justify;/*两端对齐*/
+   word-spacing: 20px;/*字符间距*/
+   text-transform: uppercase;/*大写*/
+   white-space: pre-wrap;/*保留空白符*/
+}

@@ -1,0 +1,9 @@
+/**index.wxss**/
+.fontstyle{
+    font-family: cursive;
+    font: 25px;
+    /* 字体倾斜 */
+    font-style: italic;
+    /* 字体加粗 */
+    font-weight: bold;
+}

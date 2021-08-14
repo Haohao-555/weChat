@@ -1,0 +1,12 @@
+<!--index.wxml-->
+<view class="box">
+  <view class="title">视频演示</view>
+  <view class="videLayout">
+     <video id="myVideo" src="{{src}}"  danmu-list="{{danmuList}}" poster="{{poster}}" enable-danmu danmu-btn controls enable-progress-gesture></video>
+  </view>
+  <view>
+     <view class="view">弹幕内容</view>
+     <input bindblur="inputBlur" type="text" placeholder="在此处输入弹幕内容"></input>
+     <button type="primary" bindtap="sendDanmu">发送弹幕</button>
+  </view>
+</view>

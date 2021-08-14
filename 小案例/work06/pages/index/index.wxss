@@ -1,0 +1,6 @@
+/**index.wxss**/
+.demo1{
+  display: flex;/*水平布局*/
+  text-align: center;/*文本居中*/
+  line-height: 80rpx;/*行高*/
+}

@@ -1,0 +1,19 @@
+/* pages/zixun/zixun.wxss */
+.time{
+  width:90%;
+  line-height:200px;
+  background-color: yellow;
+  color: red;
+  font-size: 100px;
+  text-align: center;
+  margin: 15px;
+  border: 1px solid silver;
+  border-radius: 30px;/*边框半径*/  
+}
+.btnLayout{
+  display: flex;
+  flex-direction: row;
+}
+button{
+  width: 45%;
+}

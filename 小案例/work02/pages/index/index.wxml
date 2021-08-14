@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="box">
+  <view class="title">文本样式设置</view>
+  <view class="textSysle01">
+    哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈
+  </view>
+  =========================
+  <view class="textSysle02">
+    When I am absent mind , when I am depressed, you , my dear father is always there . Your advice and encouragement guide me through many difficulties . Thank you , Dad, for your help and understanding. I love you , Dad ,forever!
+  </view>
+</view>

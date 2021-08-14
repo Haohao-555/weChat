@@ -1,0 +1,15 @@
+/**index.wxss**/
+.flex-wrp{
+   margin-top: 50px;
+   display: flex;
+   flex-direction: row;
+}
+.item{
+  width: 300rpx;
+  height:500rpx;
+  /* flex-grow: 1; */
+}
+.btn{
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;/*下边距*/
+}

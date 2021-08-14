@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/jiaoxue/jiaoxue",
+    "pages/keyan/keyan",
+    "pages/zixun/zixun",
+    "pages/guanyu/guanyu"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "大拇指，点赞",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#00f",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/image/首页.png",
+        "selectedIconPath": "/image/首页(1).png"
+      },
+      {
+        "pagePath": "pages/jiaoxue/jiaoxue",
+        "text": "教学",
+        "iconPath": "/image/应用.png",
+        "selectedIconPath": "/image/应用(1).png"
+      },
+      {
+        "pagePath": "pages/keyan/keyan",
+        "text": "科研",
+        "iconPath": "/image/设置.png",
+        "selectedIconPath": "/image/设置(1).png"
+      },
+      {
+        "pagePath": "pages/zixun/zixun",
+        "text": "资讯",
+        "iconPath": "/image/附件.png",
+        "selectedIconPath": "/image/附件(1).png"
+      },
+      {
+        "pagePath": "pages/guanyu/guanyu",
+        "text": "关于我们",
+        "iconPath": "/image/关于我们.png",
+        "selectedIconPath": "/image/关于我们(1).png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap71.json"
+}

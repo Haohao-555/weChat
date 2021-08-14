@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="box">
+ <view class="title">框架案例</view>
+ <navigator url="../HelloWechat/HelloWechat">
+  <view class="waikuang">
+   <icon type="success" class="myleft"></icon><!-- 图标 -->
+   <view class="mycenter">HelloWechat</view><!--文字-->
+   <!-- <image src="/images/right-arrow.png" class="myright"></image>图片 -->
+  </view>
+ </navigator>
+</view>

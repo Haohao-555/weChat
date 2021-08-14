@@ -1,0 +1,27 @@
+work01:输出Hello webchar
+work02:字体样式设置
+work03:图片和声音
+work04: 盒子模型
+work06: flex页面布局
+work07:导航栏
+work08:Float布局
+work09:摄氏度转华氏温度
+work10:条件语句和数学函数
+work11:学生成绩计算器
+work12:随机数求和
+work13:计时器
+work14:随机三色旗
+work15:小程序基本框架
+work16:数据及事件绑定
+work17:变量模块化
+work18:条件渲染
+work19:列表渲染
+work20:模板的定义与引用
+work21:货币兑换(组件一)
+work22:滑动条
+work23:轮播图和开关
+work24:个人信息填写
+work25:图片的显示效果
+work26:音频演示
+work27:视频演示
+promise_demo：promise 区别
